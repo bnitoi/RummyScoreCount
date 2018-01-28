@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">RummyCounter</string>
+    <string name="round">round</string>
+    <string name="round_0">0</string>
+    <string name="best">Best</string>
+    <string name="pink_temp_0">0</string>
+    <string name="pink_100">100</string>
+    <string name="pink_50">50</string>
+    <string name="pink_10">10</string>
+    <string name="pink_5">5</string>
+    <string name="pink_total_0">0</string>
+    <string name="reset_pink">Reset</string>
+    <string name="transfer_pink">Transfer</string>
+    <string name="yellow_temp_0">0</string>
+    <string name="yellow_100">100</string>
+    <string name="yellow_50">50</string>
+    <string name="yellow_10">10</string>
+    <string name="yellow_5">5</string>
+    <string name="yellow_total_0">0</string>
+    <string name="reset_yellow">Reset</string>
+    <string name="transfer_yellow">Transfer</string>
+    <string name="green_temp_0">0</string>
+    <string name="green_100">100</string>
+    <string name="green_50">50</string>
+    <string name="green_10">10</string>
+    <string name="green_5">5</string>
+    <string name="green_total_0">0</string>
+    <string name="reset_green">Reset</string>
+    <string name="transfer_green">Transfer</string>
+    <string name="reset_all">Reset All</string>
+    <string name="rounds">0</string>
+</resources>
